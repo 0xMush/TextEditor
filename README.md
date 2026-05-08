@@ -1,7 +1,6 @@
 # ✨ HolyTextEditor
 
 [![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Status](https://img.shields.io/badge/Status-Experimental-orange.svg)]()
 
 **HolyTextEditor** is a lightweight, terminal-based text editor written in C. Simple, fast, and focused — just a text editor, nothing more, nothing less.
 
